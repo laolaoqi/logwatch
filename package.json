@@ -1,0 +1,4 @@
+{"name":"logwatch","version":"1.0.0","description":"Quick system log analysis CLI",
+"bin":{"logwatch":"./bin/logwatch.js"},
+"repository":{"type":"git","url":"git+https://github.com/laolaoqi/logwatch.git"},
+"keywords":["logs","monitoring","diagnostics","linux"],"license":"MIT"}
